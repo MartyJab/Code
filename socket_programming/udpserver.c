@@ -49,7 +49,7 @@ int main(int argc, char* argv[])
 			exit(EXIT_FAILURE);
 		}
 
-		sprintf(puffer, "%s", "Danke");
+		sprintf(puffer, "%s", "Hallo zurück!");
 		sendto(sfd, puffer, strlen(puffer), 0, (struct sockaddr *) &instruct, sizeof(instruct));
 	}		
 }
