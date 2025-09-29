@@ -1,4 +1,4 @@
-// Simple IPv4 UDP client that sends a message and waits for a server reply with timeout and retries
+// IPv4 UDP client that sends a message and waits for a server reply with timeout and retries
 
 #include <stdio.h>
 #include <string.h>
