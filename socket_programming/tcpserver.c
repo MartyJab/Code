@@ -1,4 +1,4 @@
-// Simple IPv6 TCP server that accepts multiple clients and relays messages between them using select()
+// IPv6 TCP server that accepts multiple clients and relays messages between them using select()
 
 #include <stdio.h>
 #include <string.h>
