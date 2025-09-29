@@ -1,4 +1,4 @@
-// Simple IPv6 TCP client that connects to a server, sends keyboard input, and prints server responses
+// IPv6 TCP client that connects to a server, sends keyboard input, and prints server responses
 
 #include <stdio.h>
 #include <string.h>
