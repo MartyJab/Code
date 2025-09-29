@@ -1,4 +1,4 @@
-// Simple IPv4 UDP server that receives messages and replies
+// IPv4 UDP server that receives messages and replies
 
 #include <stdio.h>
 #include <string.h>
